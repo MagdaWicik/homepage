@@ -1,0 +1,48 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    max-width: 1000px;
+    margin: auto;
+    line-height: 1.6;
+    font-family: 'Noto Serif Lao', serif;
+}
+
+.changeBackgroundButton {
+    background-color:rgb(134, 127, 127);
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    margin-top: 15px;
+    font-size: 15px;
+    padding: 5px;
+    cursor: pointer;
+    font-family: 'Noto Serif Lao', serif;
+    border: none;
+}
+
+.darkTheme {
+    background-color: rgb(32, 31, 31);
+} 
+
+.main {
+    background-color: rgb(239, 239, 239);
+    border-radius: 10px;
+    padding: 40px;
+    box-shadow: 2px 2px 2px 2px rgb(86, 109, 99);
+}
+
+.profile {
+    width: 300px;
+    padding: 10px;
+}
+
+.footer {
+    text-align: center;
+    font-size: 80%;
+    color: rgb(66, 93, 190);
+}

@@ -1,0 +1,29 @@
+.navigation {
+    background-color: rgb(184, 190, 186);
+    border-radius: 0 0 10px 10px;
+    box-shadow: 2px 2px 2px 2px rgb(86, 109, 99);
+}
+
+.navigation__list {
+    list-style-type: none;
+    font-size: 20px;
+    line-height: 2.8;
+    padding: 30px;
+}
+
+.navigation__link {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    background-color: rgb(97, 100, 97);
+    padding: 5px 10px;
+    box-shadow: 1px 1px 2px 2px rgb(250, 240, 245);
+    border-radius: 5px;
+}
+
+.navigation__link:hover {
+    color: rgb(216, 209, 209);
+}
+
+.navigation__link:active {
+    color: rgb(135, 35, 35);
+}

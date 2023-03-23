@@ -1,0 +1,37 @@
+.section__header {
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+
+.section__paragraph {
+    padding: 15px;
+}
+
+.section__paragraph--linkExperience {
+    text-decoration: none;
+    color: rgb(135, 35, 35);
+    padding: 0;
+}
+
+.section__paragraph--linkExperience:hover {
+    color: rgb(134, 127, 127);
+    border-bottom: 1px solid rgb(134, 127, 127);
+    padding: 0;
+}
+
+.section__tableContainer {
+    overflow-x: auto;
+}
+
+.section__paragraph--linkContact {
+    text-decoration: none;
+    color: rgb(11, 11, 11);
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 2px 2px 6px 3px rgb(42, 43, 42);
+    margin-left: 20px;
+}
+
+.section__paragraph--linkContact:hover {
+    color: rgb(134, 127, 127);
+}
