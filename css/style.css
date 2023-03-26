@@ -41,6 +41,11 @@ html {
     padding: 10px;
 }
 
+.imageContainer {
+    display: flex;
+    justify-content: center;
+}
+
 .footer {
     text-align: center;
     font-size: 80%;
