@@ -1,5 +1,7 @@
 # Magdalena Wicik - homepage
 
+![gif](images/homepage.gif)
+
 ## Demo
 
 https://magdawicik.github.io/homepage/
